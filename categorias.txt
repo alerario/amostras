@@ -1,0 +1,12 @@
+ID	Assunto	CatCC	CatCD	CatDC	CatDD
+GQ1	Camada física	30	22	28	12
+GQ2	Cabeamento estruturado	28	19	13	26
+GQ3	Camada de Enlace	21	20	15	13
+GQ4	Subcamada de Acesso ao Meio	20	21	27	15
+GQ5	Switching	22	12	15	10
+GQ6	Internet Protocol	22	23	20	24
+GQ7	Roteamento	19	26	11	19
+GQ8	Camada de Transporte (TCP/UDP)	19	17	29	25
+GQ9	Segurança e Firewall	19	24	27	17
+GQ10	Protocolos de Aplicação	14	23	19	20
+GQ11	Gerenciamento de Data Centers	22	10	25	27
