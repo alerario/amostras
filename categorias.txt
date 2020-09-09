@@ -1,12 +1,12 @@
-ID	Assunto	CatCC	CatCD	CatDC	CatDD
-GQ1	Camada física	30	22	28	12
-GQ2	Cabeamento estruturado	28	19	13	26
-GQ3	Camada de Enlace	21	20	15	13
-GQ4	Subcamada de Acesso ao Meio	20	21	27	15
-GQ5	Switching	22	12	15	10
-GQ6	Internet Protocol	22	23	20	24
-GQ7	Roteamento	19	26	11	19
-GQ8	Camada de Transporte (TCP/UDP)	19	17	29	25
-GQ9	Segurança e Firewall	19	24	27	17
-GQ10	Protocolos de Aplicação	14	23	19	20
-GQ11	Gerenciamento de Data Centers	22	10	25	27
+Assunto	CatSE	Cat_E	CatS_	Cat__
+GQ1_Cam_física	11,9	28,2	19,5	7,3
+GQ2_Cabeamento	8	17,8	13	26,9
+GQ3_Cam_Enlace	18,1	16,5	25,5	28,4
+GQ4_LLC_MAC	6	9,2	17,9	6,9
+GQ5_Switching	20,7	12,4	29,9	16,5
+GQ6_IP	17,6	16,9	24,4	27,8
+GQ7_Roteamento	10,7	19,1	19,5	20,8
+GQ8_TCP/UDP	23,5	20,2	19,3	23,2
+GQ9_Seg_firewall	11,4	23,5	19,1	25,4
+GQ10_Aplicação	17,1	10,5	3,4	3,1
+GQ11_Gerenc_DC	28,6	25,6	8,6	17,7
